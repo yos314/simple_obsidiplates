@@ -1,0 +1,17 @@
+[{
+    "modid": "simpleobsidiplates",
+    "name": "Simple Obsidiplates",
+    "description": "Simple Obsidian Pressure Plates - Player Only Pressure Plates",
+    "version": "1.8.9-1.0",
+    "mcversion": "1.8.9",
+    "url": "https://github.com/yos314/simple_obsidiplates",
+    "updateUrl": "",
+    "authors": [
+      "Yos"
+    ],
+    "credits": "Yos",
+    "logoFile": "",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": []
+}]
